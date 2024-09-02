@@ -1,0 +1,794 @@
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita-02demarcode2024atualizado\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Assembly\Projeto Final\ProjetoReceita\ProjetoReceita\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita 30-03-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita 2-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjetoReceita atualizado 06-04-24\ProjetoReceita 3-4-24\ProjetoReceita 1-4-24\ProjetoReceita 30-03-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoReceita atualizado 10-04-24\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\recipe-13-4-24\recipe-11-4-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\Recipe-14-4-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\Recipe-14-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\Recipe-15-4-24 atualizado\Recipe-15-4-24 atualizado\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\recipe-16-4-24\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CopyComplete
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\danie\Downloads\ProjetoRecipeDanielaDuarte\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Formats.Asn1.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte21-04\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\appsettings.Development.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\appsettings.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.exe
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.staticwebassets.runtime.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.exe
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.runtimeconfig.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Formats.Asn1.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\bin\Debug\net6.0\ProjectRecipeBack.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.RazorAssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.build.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.development.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\staticwebassets.pack.json
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\bundle\ProjectRecipe.styles.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectR.0A008148.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\refint\ProjectRecipe.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ProjectRecipe.genruntimeconfig.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipeDanielaDuarte25-04-24\ProjetoRecipeDanielaDuarte21-04\ProjectRecipe\obj\Debug\net6.0\ref\ProjectRecipe.dll

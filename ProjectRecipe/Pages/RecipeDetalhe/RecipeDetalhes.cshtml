@@ -1,0 +1,253 @@
+﻿@page
+@model ProjectRecipe.Pages.RecipeDetalhe.RecipeDetalhesModel
+@using ProjectRecipe.Model
+@{
+    ViewData["Title"] = "Detalhamento da receita: " +Model.dadosRecipes.Id;
+    string fotoPadrao = "book1.jpg";
+    string fotoCadastro = Model.dadosRecipes.Photo;
+    fotoCadastro = fotoCadastro.Equals("0") || string.IsNullOrEmpty(fotoCadastro) ? fotoPadrao : fotoCadastro;
+    string valorNota = "";
+
+}
+
+<script type="text/javascript">
+
+    function criticaRecipes(itemId) {
+        var varElement = document.getElementById('id-critica');
+        if (varElement) {
+            varElement.value = itemId;
+        }
+        document.getElementById('criticaForm').action = '/RecipeDetalhe/RecipeDetalhes?idRecipe=' + itemId;
+        // carrega a pagina model
+        $('#myCritica').modal('show');
+    }
+</script>
+
+<!--<h1>ViewData["Title"]</h1>-->
+
+<div class="container text-center mt-3 mb-3">
+    <h2>@Model.dadosRecipes.Title.ToUpper()</h2>
+</div>
+
+<div class="container" style="height: 250px;">
+    <center> 
+        <img src="~/images/@fotoCadastro" width="40%" height="250px" alt="foto receita" />
+    </center>
+</div>
+
+<div class="container m-3">
+
+    <div class="row">
+        
+        <div class="col-sm-5" style="background-color: white">
+            <div>
+                <h2>Classificação</h2> 
+                <br />
+
+                <div class="row" style="background-color: whitesmoke">
+                    <div class="col-sm-5">
+                        <p>Categoria: </p>
+                    </div>
+
+                    <div class="col-sm-7">
+                        <p>@Model.dadosCategories.Category</p>
+                    </div>
+                </div>
+
+                <div class="row" style="background-color:white">
+                    <div class="col-sm-5">
+                        <p>Nível de dificuldade: </p>
+                    </div>
+
+                    <div class="col-sm-7">
+                       <!-- <p>Model.dadosDifficulties.Description</p> -->
+                    </div>
+                </div>
+
+                <div class="row" style="background-color: whitesmoke">
+                    <div class="col-sm-5">
+                        <p>Tempo de preparo: </p>
+                    </div>
+
+                    <div class="col-sm-7">
+                        <p>@Model.dadosRecipes.Time</p>
+                    </div>
+                </div>
+
+                <div class="row" style="background-color:white">
+                    <div class="col-sm-5">
+                        <p>Classificação:</p>
+                    </div>
+
+                    <div class="col-sm-7">
+                        <p>@Model.dadosRecipes.Classification</p>
+                    </div>
+                </div>
+
+                
+            </div>
+            <div>
+                <h2>Ingredientes</h2> 
+                <br />
+                @for(int i = 0; i < Model.ListaIngredients.Count; i++)
+                {
+                    string cor = "whitesmoke";
+
+                    @if((i%2) > 0)
+                    {
+                        cor = "white";
+                    }
+
+                    <div class="row" style="background-color: @cor">
+                            <div class="col-sm-5">
+                                <p>@Model.ListaIngredients[i].Description </p>
+                            </div>
+
+                            <div class="col-sm-7">
+                                    <p>@Model.ListaIngredients[i].Quantity </p>
+                                </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+         <div class="col-sm-7 pt-3">
+             <div>
+            <!--<div style="background-color: mintcream">-->
+                 <h3>Modos de preparação</h3>
+                 <br />
+                 <p>@Model.dadosRecipes.Preparation</p>  
+             </div>
+             <div>
+            <!--<div style="background-color: rgba(255,255,245,87)">-->
+                 <div class="row p-2">
+                     <div class="col-sm-6">
+                        <h3>Avaliação da receita</h3>
+                     </div>
+                     <div class="col-sm-6">
+                        <button type="button" class="btn btn-success" onclick="criticaRecipes('@Model.dadosRecipes.Id')">
+                            Faça aqui seu comentário
+                       </button> 
+                     </div>
+                 </div>
+                 <br />
+                @for (int i = 0; i < Model.ListaEvaluations.Count; i++)
+                {
+                    <div class="row">
+                        <div class="col-sm-5">
+                            <p>@Model.ListaEvaluations[i].Name </p>
+                        </div>
+
+                        @if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_1)
+                        {
+                            valorNota = "Nota 1";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_2)
+                        {
+                            valorNota = "Nota 2";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_3)
+                        {
+                            valorNota = "Nota 3";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_4)
+                        {
+                            valorNota = "Nota 4";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_5)
+                        {
+                            valorNota = "Nota 5";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_6)
+                        {
+                            valorNota = "Nota 6";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_7)
+                        {
+                            valorNota = "Nota 7";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_8)
+                        {
+                            valorNota = "Nota 8";
+                        }
+                        else if (@Model.ListaEvaluations[i].Grade == GradeEnum.Nota_9)
+                        {
+                            valorNota = "Nota 9";
+                        }
+                        else
+                        {
+                            valorNota = "Nota 10";
+                        }
+
+                        <div class="col-sm-7">
+                            <p>@valorNota</p>
+                        </div>
+                    </div>
+                }
+            </div>
+                       
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<!--Formulário Modal-->
+<div class="modal fade mx-5" id="myCritica" name="myCritica" tabindex="-1" role="dialog">
+
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="myModalLabel">Comentário da Receita </h3>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <form method="post" id="criticaForm" >
+                    <div class="form-group">
+                        <p>*** ATENÇAO *** Seu comentário somente será publicado após aprovação</p>
+
+                        <div class="form-group my-3" hidden>
+                            <label for="id-critica">Id da Receita</label>
+                            <input type="text" name="id-critica" id="id-critica" readonly >
+                        </div>
+
+                        <div class="form-group my-3">
+                            <label for="critica-recipe">Comente sobre a receita</label>
+                            <input type="text" class="form-control" id="critica-recipe" name="critica-recipe" placeholder="Informe o comentário">
+                        </div>
+
+                        <div class="form-group my-3">
+                            <label for="grade-recipe">Nota da avaliação</label>
+                            <select class="form-control" name="grade-recipe" id="grade-recipe">
+                                <option value="1">Nota 1</option>
+                                <option value="2">Nota 2</option>
+                                <option value="3">Nota 3</option>
+                                <option value="4">Nota 4</option>
+                                <option value="5">Nota 5</option>
+                                <option value="6">Nota 6</option>
+                                <option value="7">Nota 7</option>
+                                <option value="8">Nota 8</option>
+                                <option value="9">Nota 9</option>
+                                <option value="10">Nota 10</option>
+                            </select>
+                        </div>
+                        
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary btn-color-volta" data-bs-dismiss="modal">Voltar/Fechar</button>
+                        <button type="submit" class="btn btn-warning btn-color-confirma">Confirmar comentário</button>
+                    </div>
+
+                </form>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+

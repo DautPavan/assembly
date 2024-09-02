@@ -1,0 +1,37 @@
+﻿@page
+@model ProjectRecipe.Pages.Login.LoginUtilizadorModel
+@{
+    ViewData["Title"] = "Login - Cadastrar";
+
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post">
+
+    <div class="form-group my-3">
+        <label for="User">Nome do usuário</label>
+        <input type="text" class="form-control" id="Name" name="Name" placeholder="Informe o nome do usuário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Email">Email do usuário</label>
+        <input type="email" class="form-control" id="Email" name="Email" placeholder="Informe o e-mail do usuário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Phone">Telefone do usuário</label>
+        <input type="text" class="form-control" id="Phone" name="Phone" placeholder="Informe o telefone do usuário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Password">Senha do usuário</label>
+        <input type="password" class="form-control" id="Password" name="Password" placeholder="Informe a senha do usuário">
+    </div>
+
+    <div class="form-group my-3">
+
+        <a class="btn btn-secondary btn-color-volta" asp-page="/Index" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Cadastrar</button>
+    </div>
+</form>

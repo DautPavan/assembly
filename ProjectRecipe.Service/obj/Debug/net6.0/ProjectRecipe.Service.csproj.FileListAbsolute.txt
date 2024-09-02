@@ -1,0 +1,5 @@
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net6.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net6.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net6.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net6.0\ProjectRecipe.Service.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net6.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache

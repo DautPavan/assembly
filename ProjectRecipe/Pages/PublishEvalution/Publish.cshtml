@@ -1,0 +1,58 @@
+﻿@page
+@using ProjectRecipe.Model;
+@model ProjectRecipe.Pages.PublishEvalution.PublishModel
+@{
+    ViewData["Title"] = "Pubicar e Cancelar Publicação das Avaliações";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-sm table-striped table-color-recipe">
+    <thead>
+        <tr>
+            <th scope="col">Clik Publica e Cancela</th>
+            <th scope="col">Id</th>
+            <th scope="col">Comantário sobre a receita</th>
+            <th scope="col">Avaliação/nota (1 a 10) da receita</th>
+            <th scope="col">Id da Receita</th>
+
+        </tr>
+    </thead>
+    <tbody>
+
+        @for (int i = 0; i < Model.ListaAvaliacao.Count; i++)
+        {
+            <tr>
+                <td>
+
+                    <form method="post" asp-route-idAvaliar=@Model.ListaAvaliacao[i].Id>
+                        @if( Model.ListaAvaliacao[i].Approval == ApprovalEnum.Approved){
+                            <button type="submit" name="aprovado" class="btn btn-success" >
+                                Aprovado
+                            </button>
+
+                        }else{
+                            <button type="submit" name="cancelado" class="btn btn-danger" >
+                                Não Aprovado
+                            </button>
+                
+                        }
+                    </form>
+                
+                </td>
+
+                <td>@Model.ListaAvaliacao[i].Id</td>
+                <td>@Model.ListaAvaliacao[i].Name</td>
+                <td>@Model.ListaAvaliacao[i].Grade</td>
+                <td>@Model.ListaAvaliacao[i].IdRecipe</td>
+
+
+            </tr>
+
+        }
+
+
+    </tbody>
+</table>
+
+

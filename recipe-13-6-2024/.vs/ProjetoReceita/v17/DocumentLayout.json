@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|c:\\users\\danie\\downloads\\recipe-10-6-2024\\projectrecipe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|c:\\users\\danie\\downloads\\recipe-10-6-2024\\projectrecipe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|c:\\users\\danie\\downloads\\recipe-10-6-2024\\projectrecipe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|c:\\users\\danie\\downloads\\recipe-10-6-2024\\projectrecipe\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5604EDB6-5117-4443-B6F4-9A5C3C15A494}|ProjectRecipe\\ProjectRecipe.csproj|solutionrelative:projectrecipe\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:51:58.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T18:51:54.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-13T18:51:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danie\\Downloads\\recipe-10-6-2024\\ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectRecipe\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T18:50:45.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

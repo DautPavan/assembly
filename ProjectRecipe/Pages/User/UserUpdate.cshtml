@@ -1,0 +1,55 @@
+﻿@page
+@model ProjectRecipe.Pages.User.UserUpdateModel
+@{
+    ViewData["Title"] = "Cadastro de Usuário - Alterar";
+
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method = "post">
+   <div hidden class="form-group my-3 ">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" asp-for=@Model.novoDado.Id  placeholder="Informe o Id" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="User">Nome do usuário</label>
+        <input type="text" class="form-control" id="Name" asp-for=@Model.novoDado.Name placeholder="Informe o nome do usuário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Email">Email do usuário</label>
+        <input type="email" class="form-control" id="Email" asp-for=@Model.novoDado.Email placeholder="Informe o e-mail do usuário">
+    </div>
+
+     <div class="form-group my-3">
+        <label for="Phone">Telefone do usuário</label>
+        <input type="text" class="form-control" id="Phone" asp-for=@Model.novoDado.Phone placeholder="Informe o telefone do usuário">
+    </div>
+
+     <div class="form-group my-3">
+        <label for="Password">Senha do usuário</label>
+        <input type="password" class="form-control" id="Password" asp-for=@Model.novoDado.Password placeholder="Informe a senha do usuário">
+    </div>
+
+     <div hidden class="form-group my-3">
+        <label for="UserType">Tipo de usuário</label>
+        <input type="text" class="form-control" id="UserType" asp-for=@Model.novoDado.UserType placeholder="Informe o tipo do usuário" value="1" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="UserType">Informe o tipo de usuário</label>
+        <select class="form-control name="UserType" id="UserType" asp-for=@Model.novoDado.UserType>
+            <option value="1">Admin - Administrador do site</option>
+            <option value="2">Gestor - Gestor do site</option>
+            <option value="3">User - Usuário cadastrado</option>
+        </select>
+    </div>
+
+    <div class="form-group my-3">
+
+        <a class="btn btn-secondary btn-color-volta" asp-page="/User/Users" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Alterar</button>
+    </div>
+</form>
+

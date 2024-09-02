@@ -1,0 +1,39 @@
+﻿@page
+@model ProjectRecipe.Pages.Ingredient.IngredientUpdateModel
+@{
+    ViewData["Title"] = "Cadastro de Ingrediente - Alterar";
+
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" asp-route-idRecipe=@Model.idRecipe2>
+    <div hidden class="form-group my-3">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" asp-for=@Model.novoDado.Id  placeholder="Informe o Id" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Description">Nome do ingrediente</label>
+        <input type="text" class="form-control" id="Description" asp-for=@Model.novoDado.Description placeholder="Informe o nome do ingrediente">
+    </div>
+
+
+    <div class="form-group my-3">
+        <label for="Quantity">Quantidade do ingrediente</label>
+        <input type="text" class="form-control" id="Quantity" asp-for=@Model.novoDado.Quantity placeholder="Informe a quantidade do ingrediente">
+    </div>
+
+
+    <div class="form-group my-3">
+        <label for="IdRecipe">Id da receita associada ao ingrediente</label>
+        <input type="text" class="form-control" id="IdRecipe" asp-for=@Model.novoDado.IdRecipe placeholder="Informe o id da receita associada ao ingrediente" readonly>
+    </div>
+
+    <div class="form-group my-3">
+
+        <a class="btn btn-secondary btn-color-volta"  onclick="history.back()" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Alterar</button>
+
+
+    </div>
+</form>

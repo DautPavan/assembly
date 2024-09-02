@@ -1,0 +1,45 @@
+html 
+{
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html 
+  {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.btn-color-cad {
+    background-color: #87CEFA;
+}
+
+.btn-color-alt {
+    background-color: #3CB371;
+}
+
+.btn-color-del {
+    background-color: #FA8072;
+}
+
+.btn-color-confirma {
+    background-color: #F0E68C;
+}
+
+.btn-color-volta {
+    background-color: #A9A9A9;
+}
+
+.table-color-recipe
+{
+    
+}

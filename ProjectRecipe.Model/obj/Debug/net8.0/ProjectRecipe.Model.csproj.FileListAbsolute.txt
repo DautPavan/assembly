@@ -1,0 +1,66 @@
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\refint\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Model\obj\Debug\net8.0\ref\ProjectRecipe.Model.dll

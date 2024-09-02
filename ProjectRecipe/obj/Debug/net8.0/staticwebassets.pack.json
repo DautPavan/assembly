@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectRecipe.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectRecipe.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\1600188f-c5ae-4139-8cfc-d87c0d86e50f.jpeg",
+      "PackagePath": "staticwebassets\\images\\1600188f-c5ae-4139-8cfc-d87c0d86e50f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\25ffe6cd-7adc-470c-b168-e342c225fd2c.jpg",
+      "PackagePath": "staticwebassets\\images\\25ffe6cd-7adc-470c-b168-e342c225fd2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\52a2c5b0-1532-4994-b861-928beb5b7ec5.webp",
+      "PackagePath": "staticwebassets\\images\\52a2c5b0-1532-4994-b861-928beb5b7ec5.webp"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\589f7e29-2640-4d03-94b0-091106404fa4.jpg",
+      "PackagePath": "staticwebassets\\images\\589f7e29-2640-4d03-94b0-091106404fa4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\61ab3d80-5f41-4cbb-92c1-b35f286b3ef5.jpg",
+      "PackagePath": "staticwebassets\\images\\61ab3d80-5f41-4cbb-92c1-b35f286b3ef5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\63c5ba98-54e6-44b2-9dc6-64f0a231da9b.jpg",
+      "PackagePath": "staticwebassets\\images\\63c5ba98-54e6-44b2-9dc6-64f0a231da9b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\6dc7b83b-3212-416f-af6b-8ec279a100a3.jpg",
+      "PackagePath": "staticwebassets\\images\\6dc7b83b-3212-416f-af6b-8ec279a100a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\a368d61c-0bf9-444f-9f93-c3e48a656ade.jpeg",
+      "PackagePath": "staticwebassets\\images\\a368d61c-0bf9-444f-9f93-c3e48a656ade.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\beringela.jpg",
+      "PackagePath": "staticwebassets\\images\\beringela.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\book.avif",
+      "PackagePath": "staticwebassets\\images\\book.avif"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\book1.jpg",
+      "PackagePath": "staticwebassets\\images\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\images\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\da13f8e9-220d-4edb-bbe5-db2e1b3532d8.jpg",
+      "PackagePath": "staticwebassets\\images\\da13f8e9-220d-4edb-bbe5-db2e1b3532d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\food1.jpg",
+      "PackagePath": "staticwebassets\\images\\food1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\food3.png",
+      "PackagePath": "staticwebassets\\images\\food3.png"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\fotopad1.jpeg",
+      "PackagePath": "staticwebassets\\images\\fotopad1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\pudim.jpg",
+      "PackagePath": "staticwebassets\\images\\pudim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\recipes.jpg",
+      "PackagePath": "staticwebassets\\images\\recipes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\images\\recipes2.jpg",
+      "PackagePath": "staticwebassets\\images\\recipes2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\receitas01.jpg",
+      "PackagePath": "staticwebassets\\receitas01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\receitas02.jpg",
+      "PackagePath": "staticwebassets\\receitas02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\recipes.jpg",
+      "PackagePath": "staticwebassets\\recipes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danie\\OneDrive\\Área de Trabalho\\Github\\ProjectRecipe\\wwwroot\\recipes2.jpg",
+      "PackagePath": "staticwebassets\\recipes2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectRecipe.props",
+      "PackagePath": "build\\ProjectRecipe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectRecipe.props",
+      "PackagePath": "buildMultiTargeting\\ProjectRecipe.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectRecipe.props",
+      "PackagePath": "buildTransitive\\ProjectRecipe.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

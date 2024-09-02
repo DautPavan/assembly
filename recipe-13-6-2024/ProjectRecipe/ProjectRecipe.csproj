@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectRecipe.Model\ProjectRecipe.Model.csproj" />
+    <ProjectReference Include="..\ProjectRecipe.Repository\ProjectRecipe.Repository.csproj" />
+    <ProjectReference Include="..\ProjectRecipe.Service\ProjectRecipe.Service.csproj" />
+  </ItemGroup>
+
+</Project>

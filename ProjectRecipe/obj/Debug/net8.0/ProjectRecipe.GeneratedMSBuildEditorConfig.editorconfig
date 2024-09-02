@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjectRecipe
+build_property.RootNamespace = ProjectRecipe
+build_property.ProjectDir = C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Category/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcmllcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Category/CategoryCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Category/CategoryUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcQ2F0ZWdvcnlVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Difficulty/Difficulties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxEaWZmaWN1bHRpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Difficulty/DifficultyCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxEaWZmaWN1bHR5Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Difficulty/DifficultyUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlmZmljdWx0eVxEaWZmaWN1bHR5VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Evaluation/EvaluationCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZhbHVhdGlvblxFdmFsdWF0aW9uQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Evaluation/Evaluations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZhbHVhdGlvblxFdmFsdWF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Evaluation/EvaluationUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZhbHVhdGlvblxFdmFsdWF0aW9uVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Favorites/Favorite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmF2b3JpdGVzXEZhdm9yaXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Ingredient/IngredientCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxJbmdyZWRpZW50Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Ingredient/Ingredients.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxJbmdyZWRpZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Ingredient/IngredientUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVkaWVudFxJbmdyZWRpZW50VXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Login/LoginCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5DYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Login/LoginErro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5FcnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Login/LoginNotAutorizado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5Ob3RBdXRvcml6YWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Login/LoginUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Login/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Photo/PhotoUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhvdG9cUGhvdG9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/PublishEvalution/Publish.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaEV2YWx1dGlvblxQdWJsaXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/PublishRecipe/PublishRec.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGlzaFJlY2lwZVxQdWJsaXNoUmVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/RecipeDetalhe/RecipeDetalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlRGV0YWxoZVxSZWNpcGVEZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Recipe/RecipeCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlXFJlY2lwZUNyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Recipe/Recipes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlXFJlY2lwZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Recipe/RecipeUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjaXBlXFJlY2lwZVVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/User/UserCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxVc2VyQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/User/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/User/UserUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxVc2VyVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/danie/OneDrive/Área de Trabalho/Github/ProjectRecipe/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-szc7wwumrq

@@ -1,0 +1,27 @@
+﻿@page
+@model ProjectRecipe.Pages.Difficulty.DifficultyCreateModel
+@{
+    ViewData["Title"] = "Cadastro de Dificuldade - Cadastrar";
+
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method = "post">
+    <div class="form-group my-3">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" asp-for=@Model.novoDado.Id  placeholder="Informe o Id" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Description">Nome da dificuldade</label>
+        <input type="text" class="form-control" id="Description" asp-for=@Model.novoDado.Description placeholder="Informe o nome da dificuldade">
+    </div>
+
+    <div class="form-group my-3">
+
+        <a class="btn btn-secondary btn-color-volta" asp-page="/Difficulty/Difficulties" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Cadastrar</button>
+
+
+    </div>
+</form>

@@ -1,0 +1,102 @@
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+S:\ASSEMBLY\Daniela\ProjetoRecipe-06-24\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-26-5-2024\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectR.028FB3E2.Up2Date
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\refint\ProjectRecipe.Service.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe.Service\obj\Debug\net8.0\ref\ProjectRecipe.Service.dll

@@ -1,0 +1,56 @@
+﻿@page
+@model ProjectRecipe.Pages.Evaluation.EvaluationCreateModel
+@{
+    ViewData["Title"] = "Cadastro de Avaliação - Cadastrar";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method = "post">
+    <div hidden class="form-group my-3">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" asp-for=@Model.novoDado.Id  placeholder="Informe o Id" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Name">Comente sobre a receita</label>
+        <input type="text" class="form-control" id="Name" asp-for=@Model.novoDado.Name placeholder="Informe o comentário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Grade">Nota da avaliação</label>
+        <select class="form-control name="Grade" id="Grade" asp-for=@Model.novoDado.Grade>
+            <option value="1">Nota 1</option>
+            <option value="2">Nota 2</option>
+            <option value="3">Nota 3</option>
+            <option value="4">Nota 4</option>
+            <option value="5">Nota 5</option>
+            <option value="6">Nota 6</option>
+            <option value="7">Nota 7</option>
+            <option value="8">Nota 8</option>
+            <option value="9">Nota 9</option>
+            <option value="10">Nota 10</option>
+        </select>
+        <!-- 
+        <input type="text" class="form-control" id="Grade" asp-for=@Model.novoDado.Grade placeholder="Informe a nota de 1 a 10">-->
+    </div>
+
+    <div class="form-group my-3">
+        <label for="IdRecipe">Id da receita do comentário</label>
+        <input type="text" class="form-control" id="IdRecipe" asp-for=@Model.novoDado.IdRecipe placeholder="Informe o id da receita do comentário">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Approval">Publicado ou não publicado</label>
+        <input type="text" class="form-control" id="Approval" asp-for=@Model.novoDado.Approval placeholder="Publicado ou não publicado" value="0" readonly>
+    </div>
+
+    <div class="form-group my-3">
+
+        <a class="btn btn-secondary btn-color-volta" asp-page="/Ingredient/Ingredients" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Cadastrar</button>
+
+
+    </div>
+</form>
+

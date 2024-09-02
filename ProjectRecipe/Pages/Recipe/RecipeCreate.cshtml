@@ -1,0 +1,93 @@
+﻿@page
+@model ProjectRecipe.Pages.Recipe.RecipeCreateModel
+@{
+    ViewData["Title"] = "Cadastro da Receita - Cadastrar";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method = "post">
+    <div hidden class="form-group my-3">
+        <label for="Id">Id</label>
+        <input type="text" class="form-control" id="Id" asp-for=@Model.novoDado.Id  placeholder="Informe o Id" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Title">Informe o título da receita</label>
+        <input type="text" class="form-control" id="Title" asp-for=@Model.novoDado.Title placeholder="Informe o título da receita">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Preparation">Informe o modo de preparar a receita</label>
+        <textarea class="form-control" id="Preparation" rows="4" asp-for=@Model.novoDado.Preparation></textarea>
+       
+       <!-- <input type="text" class="form-control" id="Preparation" asp-for=Model.novoDado.Preparation placeholder="Informe o modo de preparar a receita">-->
+       
+    </div>
+
+    <div class="form-group my-3">
+        <label for="IdCategory">Informe a categoria da receita</label>
+        <select class="form-control name="IdCategory" id="IdCategory" asp-for=@Model.novoDado.IdCategory>
+            @for (int i = 0; i < Model.dadosCategory.Count; i++)
+            {
+                        <option value="@Model.dadosCategory[i].Id">@Model.dadosCategory[i].Category</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="IdDifficulty">Informe a dificuldade da receita</label>
+        <select class="form-control name="IdDifficulty" id="IdDifficulty" asp-for=@Model.novoDado.IdDifficulty>
+            @for (int i = 0; i < Model.dadosDifficulty.Count; i++)
+            {
+                    <option value="@Model.dadosDifficulty[i].Id">@Model.dadosDifficulty[i].Description</option>
+            }
+        </select>
+    </div>
+
+    <div hidden class="form-group my-3">
+        <label for="Gastronomy">Informe a gastronomia</label>
+        <select class="form-control name="Grade" id="Grade" asp-for=@Model.novoDado.Gastronomy>
+            <option value="1" selected>Alta gastronomia</option>
+            <option value="2">Baixa gastronomia</option>
+            <option value="3">Gastronomia sustentável</option>
+            <option value="4">Gastronomia vegana</option>
+        </select>
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Classification">Informe a classificação da receita</label>
+        <input type="text" class="form-control" id="Classification" asp-for=@Model.novoDado.Classification placeholder="Informe a classificação da receita">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Time">Informe o tempo de preparo da receita</label>
+        <input type="text" class="form-control" id="Time" asp-for=@Model.novoDado.Time placeholder="Informe o tempo de preparo da receita">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="Photo">Informe a foto da receita</label>
+        <input type="text" class="form-control" id="Photo" asp-for=@Model.novoDado.Photo placeholder="Informe a foto da receita" readonly value="0">
+    </div>
+
+     <div class="form-group my-3">
+        <label for="Favorite">Fovorito sim ou não</label>
+        <input type="text" class="form-control" id="Favorite" asp-for=@Model.novoDado.Favorite placeholder="Favorito sim ou não" readonly value="FavoriteEnum.NoFavorite">
+    </div>
+
+     <div class="form-group my-3">
+        <label for="Approval">Informe a receita aprovada ou não</label>
+        <input type="text" class="form-control" id="Approval" asp-for=@Model.novoDado.Approval placeholder="Informe a receita aprovada ou não" readonly value="ApprovalEnum.NoAproved">
+    </div>
+
+    <div class="form-group my-3">
+        <label for="IdUser">Informe o id do usuário</label>
+        <input type="text" class="form-control" id="IdUser" asp-for=@Model.novoDado.IdUser placeholder="Informe o id do usuário" value="@User.FindFirst("id").Value" readonly>
+    </div>
+
+    <div class="form-group my-3">
+        <a class="btn btn-secondary btn-color-volta" asp-page="/Recipe/Recipes" role="button">Voltar</a>
+        <button type="submit" class="btn btn-warning btn-color-confirma">Cadastrar</button>
+    </div>
+
+</form>
