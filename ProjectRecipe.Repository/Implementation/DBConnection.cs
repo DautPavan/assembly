@@ -15,7 +15,11 @@ namespace ProjectRecipe.Repository
         //"Initial Catalog=JD_YV_DD_Recipe;" +
         //"Integrated Security = True;Encrypt=False";
 
-        private static readonly string _connectionString = "Server=localhost\\SQLEXPRESS01;Database=JD_YV_DD_Recipe;Trusted_Connection=True;";
+        //private static readonly string _connectionString = "Server=localhost\\SQLEXPRESS01;Database=JD_YV_DD_Recipe;Trusted_Connection=True;";
+
+        private static readonly string _connectionString = "Server=5.161.72.81;Database=JD_YV_DD_Recipe;User Id=sa;Password=Minhasenha4321#;Encrypt=False;TrustServerCertificate=True";
+
+
 
         //Server=localhost\SQLEXPRESS01;Database=master;Trusted_Connection=True;
 

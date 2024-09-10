@@ -447,7 +447,10 @@
       "System.Text.Encodings.Web/4.5.0": {},
       "ProjectRecipe.Model/1.0.0": {
         "runtime": {
-          "ProjectRecipe.Model.dll": {}
+          "ProjectRecipe.Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "ProjectRecipe.Repository/1.0.0": {
@@ -459,7 +462,10 @@
           "System.Data.SqlClient": "4.8.6"
         },
         "runtime": {
-          "ProjectRecipe.Repository.dll": {}
+          "ProjectRecipe.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -157,162 +157,111 @@ C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe\obj\Debug\net8.0\refint\
 C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
 C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
 C:\Users\danie\Downloads\recipe-10-6-2024\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.staticwebassets.runtime.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.exe
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.deps.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.runtimeconfig.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Data.SqlClient.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.pdb
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.pdb
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.AssemblyReference.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfoInputs.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfo.cs
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.CoreCompileInputs.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cs
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectRecipe.props
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\bundle\ProjectRecipe.styles.css
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectR.0A008148.Up2Date
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\refint\ProjectRecipe.dll
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
-C:\Users\danie\Downloads\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.staticwebassets.runtime.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.exe
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.deps.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.runtimeconfig.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.AssemblyReference.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cs
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\bundle\ProjectRecipe.styles.css
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectR.0A008148.Up2Date
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\refint\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Projeto receita\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\appsettings.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.staticwebassets.runtime.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.exe
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.deps.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.runtimeconfig.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.AssemblyReference.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfoInputs.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfo.cs
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.CoreCompileInputs.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cs
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\scopedcss\bundle\ProjectRecipe.styles.css
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectR.0A008148.Up2Date
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\refint\ProjectRecipe.dll
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
-C:\Users\danie\OneDrive\Área de Trabalho\Github\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\appsettings.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.exe
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.deps.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.runtimeconfig.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.sourcelink.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectR.0A008148.Up2Date
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\refint\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\dautp\Desktop\Daniela\assembly\recipe-13-6-2024\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\appsettings.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.staticwebassets.runtime.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.exe
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.deps.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.runtimeconfig.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Model.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Repository.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\bin\Debug\net8.0\ProjectRecipe.Service.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.AssemblyReference.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfoInputs.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.AssemblyInfo.cs
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.csproj.CoreCompileInputs.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.RazorAssemblyInfo.cs
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.sourcelink.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.ProjectRecipe.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjectRecipe.props
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\scopedcss\bundle\ProjectRecipe.styles.css
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\scopedcss\projectbundle\ProjectRecipe.bundle.scp.css
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectR.0A008148.Up2Date
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\refint\ProjectRecipe.dll
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.pdb
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ProjectRecipe.genruntimeconfig.cache
+C:\Users\dautp\Desktop\Daniela\assembly\ProjectRecipe\obj\Debug\net8.0\ref\ProjectRecipe.dll

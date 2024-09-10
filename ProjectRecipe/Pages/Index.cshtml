@@ -1,6 +1,5 @@
 ﻿@page
 @model IndexModel
-@using ProjectRecipe.Model;
 @{
     ViewData["Title"] = "Home page";
     int tamLista = Model.ListaReceita.Count;
@@ -9,11 +8,11 @@
     int tamTitulo = 0;
     int tamPreparation = 0;
 
-    int idLogado = 0;
-    var userPesquisa = User.FindFirst("id");
+    bool userLogado = false;
+    var userPesquisa = User.FindFirst("name");
     if (userPesquisa != null)
     {
-        idLogado = Convert.ToInt32(userPesquisa.Value);
+        userLogado = true;
     }
 }
 
@@ -42,25 +41,10 @@
                             <a href="/RecipeDetalhe/RecipeDetalhes?id=@Model.ListaReceita[i].Id" target="_blank">
                                 <img src="./images/@fotoCadastro" class="card-img-top" height="200px" width="100%" alt="foto receita">
                             </a>
-                            
-                            <div class="m-5dql">
-                                
-                                @if (idLogado > 0)
-                                {
-
-                                    if (Model.ListaReceita[i].Favorite == FavoriteEnum.Favorite)
-                                    {
-                                        if (Model.ListaReceita[i].IdUser == idLogado)
-                                        {
-
-                                           <p class=" btn btn-danger">FAVORITO</p> 
-
-                                        }
-                                    }
-                                }
-
-                            </div>
-
+                            @if (userLogado)
+                            {
+                                <h3>Favotito</h3>
+                            }
                             <p class="card-text p-3"> @Model.ListaReceita[i].Preparation.Substring(0,tamPreparation)</p>
                             <a href="/RecipeDetalhe/RecipeDetalhes?id=@Model.ListaReceita[i].Id" class="btn btn-dark" target="_blank">Saiba mais sobre Receita</a>
                         </div>
