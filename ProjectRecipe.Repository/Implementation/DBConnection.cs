@@ -17,7 +17,7 @@ namespace ProjectRecipe.Repository
 
         //private static readonly string _connectionString = "Server=localhost\\SQLEXPRESS01;Database=JD_YV_DD_Recipe;Trusted_Connection=True;";
 
-        private static readonly string _connectionString = "Server=5.161.72.81,1434;Database=JD_YV_DD_Recipe;User Id=sa;Password=Minhasenha4321#;Encrypt=False;TrustServerCertificate=True";
+        private static readonly string _connectionString = "Server=10.0.0.3;Database=JD_YV_DD_Recipe;User Id=sa;Password=Minhasenha4321#;Encrypt=False;TrustServerCertificate=True";
 
 
 
